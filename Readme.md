@@ -1,12 +1,12 @@
 ROHIT JANGRA
 Backend Developer | Hisar, Haryana | rohitoriginal37@gmail.com | github.com/rohit-jangra-dx | +91 9306188213
 
-SUMMARY
+# SUMMARY
 Backend-focused developer with 3+ years of hands-on experience (1 year professional & freelance). 
 Skilled in building scalable APIs, real-time systems, and data-driven applications. 
 Proven track record delivering production-ready software in gaming, fintech, and ML domains.
 
-WORK EXPERIENCE
+# WORK EXPERIENCE
 Pi — Frontend Web Developer | Oct 2023 – Apr 2024
 - Built and maintained production React applications, improving user experience across 3 live projects.  
 - Integrated frontend with backend APIs and ensured smooth deployment workflows with CI/CD (GitHub Actions).  
