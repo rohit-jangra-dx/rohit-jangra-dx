@@ -33,7 +33,7 @@ Remote | 2023 – Present
 - Learned Angular on the job and migrated the frontend to Angular, aligning UI flows with backend APIs.
 - Integrated REST APIs and asynchronous eligibility updates.
 
-### Freelance Web Developer | July 2025 – Present
+### Freelance Web Developer
 - Delivered custom full-stack applications for clients, from requirements gathering to deployment.  
 - Built a real-money Ludo betting platform (Go, Postgres, Redis, React, Podman) with:  
    • Real-time game server handling concurrent multiplayer sessions  
@@ -64,11 +64,8 @@ Linux, Nginx, Shell Scripting, Process Orchestration
 ### Architecture Concepts:
 System Design, Failure Handling, Data Consistency, Backend Service Ownership
 
-ADDITIONAL STRENGTHS
-
-Strong ability to adapt to new stacks and frameworks based on project needs
-
-Experience debugging issues across OS, network, and application layers
-
-Focus on building boring, reliable systems that can run unattended in production
+## ADDITIONAL STRENGTHS
+- Strong ability to adapt to new stacks and frameworks based on project needs
+- Experience debugging issues across OS, network, and application layer
+- Focus on building boring, reliable systems that can run unattended in production
 
