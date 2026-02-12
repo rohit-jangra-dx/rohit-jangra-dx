@@ -1,71 +1,67 @@
 # Rohit Jangra
-#### Backend Engineer | Fullstack Developer
 
-India | Email: your.email@example.com
+### Backend Engineer | Systems-Focused Full-Stack Developer
 
-## PROFESSIONAL SUMMARY
+📍 India
+rjangradev@gmail.com
+---
 
-Backend Engineer with hands-on experience owning and operating production systems end-to-end for a loan services platform. Strong in Python backend development, batch processing, external API integrations, data consistency, and system reliability. Known for rapid adaptation across stacks, architectural thinking, and building systems designed to run safely under failure and retries.
+## 👨‍💻 About Me
 
-## PROFESSIONAL EXPERIENCE
-### Freelance Backend Engineer (Sole Developer)
-Remote | 2023 – Present
+Backend engineer focused on building reliable production systems.
+Strong in Python backend development, batch processing, external API integrations, and data consistency.
 
-#### Loan Application & Eligibility Platform (Python, Node.js, MongoDB)
+I build systems that are safe under retries, failures, and real-world load.
 
-- Designed and built a production loan application platform supporting user onboarding, account       creation, and loan application workflows.
-- Implemented REST APIs for managing users, applications, and lender eligibility states.
-- Designed MongoDB schemas and indexes to support safe querying and updates at scale.
-- Acted as the system owner, responsible for correctness, data integrity, and operational stability.
+---
 
-#### Batch Dispatcher & Partner API Integration (Python)
+## 💼 Experience
 
-- Built a cron-driven batch dispatcher to process loan applications and dispatch them to multiple   external lender APIs.
-- Implemented OS-level locking (flock) to guarantee single-instance execution and prevent concurrent runs.
-- Designed the system for idempotency and safe re-runs, avoiding duplicate partner requests.
-- Added retry logic, failure isolation, and partial success handling for unreliable third-party APIs.
-- Ensured data safety by treating source records as immutable and operating only on filtered eligible datasets.
-- Optimized MongoDB queries and indexing to process large datasets (tens to hundreds of thousands of records) without impacting production performance.
-- Deployed and operated the system on a Linux VPS with structured logging for live debugging.
+### Backend / Full-Stack Developer – VishnuCredit (Contract)
 
-#### Frontend Migration (Angular)
-- Took over a legacy React frontend with significant technical debt
-- Learned Angular on the job and migrated the frontend to Angular, aligning UI flows with backend APIs.
-- Integrated REST APIs and asynchronous eligibility updates.
+**Loan Application & Eligibility Platform**
 
-### Freelance Web Developer
-- Delivered custom full-stack applications for clients, from requirements gathering to deployment.  
-- Built a real-money Ludo betting platform (Go, Postgres, Redis, React, Podman) with:  
-   • Real-time game server handling concurrent multiplayer sessions  
-   • Secure OTP authentication and integrated payment workflows  
-   • Automated deployments with GitHub Actions + containerization  
-- Developed a Lost-and-Found system (FastAPI, MongoDB) enabling item matching & notifications.  
+* Built and operated a production loan platform handling onboarding and loan workflows.
+* Designed an idempotent cron-based batch dispatcher processing **50k+ applications daily**.
+* Implemented OS-level locking, retry strategies, and failure isolation for external lender APIs.
+* Optimized MongoDB queries and indexing for high-volume processing.
+* Migrated legacy React frontend to Angular and aligned async backend flows.
+* Deployed and managed services on Linux VPS with Nginx and CI/CD.
 
-## SELECTED PROJECTS
-#### Hybrid Movie Recommendation System (Python)
-- Built a hybrid recommender system using LightFM with collaborative filtering and metadata features.
-- Experimented with WARP and WARP-KOS loss functions.
-- Evaluated models using Precision@K, Recall@K, and AUC.
-- Produced a complete technical report covering modeling decisions and evaluation trade-offs.
+---
 
-## TECHNICAL SKILLS
-### Languages:
-Python, JavaScript, TypeScript, Go (working knowledge)
+### Backend / Full-Stack Developer – WinLudos
 
-### Backend & Systems:
-REST APIs, Batch Processing, Cron Jobs, External API Integration, Concurrency Control, Idempotency, Retry Strategies, Logging & Debugging
+* Built a real-time multiplayer Ludo platform (1,000+ concurrent users).
+* Implemented WebSocket-based game server and secure OTP authentication.
+* Integrated payments and deployed production services on VPS.
 
-### Databases & Storage:
-MongoDB, PostgreSQL, Redis
+---
 
-### Infrastructure & Ops:
-Linux, Nginx, Shell Scripting, Process Orchestration
+## 🚀 Projects
 
-### Architecture Concepts:
-System Design, Failure Handling, Data Consistency, Backend Service Ownership
+**Hybrid Movie Recommendation System**
+Built using LightFM with collaborative filtering + metadata features.
+Evaluated with Precision@K, Recall@K, and AUC.
 
-## ADDITIONAL STRENGTHS
-- Strong ability to adapt to new stacks and frameworks based on project needs
-- Experience debugging issues across OS, network, and application layer
-- Focus on building boring, reliable systems that can run unattended in production
+**TeamFlow (Workspace Collaboration System)**
+Django REST + React multi-tenant system with role-based permissions.
 
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, Go
+**Backend:** FastAPI, Django REST, Express
+**Frontend:** Angular, React
+**Databases:** MongoDB, PostgreSQL, Redis
+**Infra:** Linux, Nginx, Docker, CI/CD
+
+---
+
+## 🧠 Engineering Focus
+
+* Idempotent system design
+* Concurrency control
+* Failure-safe batch processing
+* Production ownership
