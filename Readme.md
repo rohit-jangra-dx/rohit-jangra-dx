@@ -52,9 +52,13 @@ Django REST + React multi-tenant system with role-based permissions.
 ## 🛠 Tech Stack
 
 **Languages:** Python, JavaScript, TypeScript, Go
+
 **Backend:** FastAPI, Django REST, Express
+
 **Frontend:** Angular, React
+
 **Databases:** MongoDB, PostgreSQL, Redis
+
 **Infra:** Linux, Nginx, Docker, CI/CD
 
 ---
