@@ -17,7 +17,7 @@ I build systems that are safe under retries, failures, and real-world load.
 
 ## 💼 Experience
 
-### Backend / Full-Stack Developer – VishnuCredit (Contract)
+### Backend / Full-Stack Developer – VishnuCredit 
 
 **Loan Application & Eligibility Platform**
 
@@ -30,7 +30,7 @@ I build systems that are safe under retries, failures, and real-world load.
 
 ---
 
-### Backend / Full-Stack Developer – WinLudos
+### Backend / Full-Stack Developer – WinLudos (Contract)
 
 * Built a real-time multiplayer Ludo platform (1,000+ concurrent users).
 * Implemented WebSocket-based game server and secure OTP authentication.
